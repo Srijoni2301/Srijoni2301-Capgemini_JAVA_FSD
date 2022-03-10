@@ -14,7 +14,7 @@ public class BreakSwitchCase {
 			dayString = "Monday";
 			break;
 		case 2:
-			dayString = "Tuesday";
+			dayString = "NO day";
 			break;
 		case 3:
 			dayString = "Wednesday";
